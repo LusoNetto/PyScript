@@ -1,5 +1,5 @@
 # PyScript
-Para voce fazer seu primeiro html utilizando o PyScript é muito facil:
+<! --Para voce fazer seu primeiro html utilizando o PyScript é muito facil:
 1ºColoque essas referencias no seu arquivo html:
 
 <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
@@ -38,4 +38,4 @@ Para voce fazer seu primeiro html utilizando o PyScript é muito facil:
 5º Se voce estiver no linux é só salvar o seu documento, abrir o terminal na pasta onde esta o arquivo html e dar o comando $ open <nomeDoSeuArquivo>.html
 6º Se estiver no Windows é só salvar o seu documento e abrir o arquivo <nomeDoSeuArquivo>.html com o chrome.
 
-Parabéns voce acabou de utilizar a ferramenta PyScript!
+Parabéns voce acabou de utilizar a ferramenta PyScript!-->
