@@ -21,7 +21,7 @@
   ```<h1>Nosso primeiro código com PyScript</h1>```
 ```</body>```
 
-4ºLogo abaixo utilizamos a tag ```<py-script></py-script>``` e dentro dela colocamos nosso código em python, o código que utilizei é simples, tratasse de importar o datatime e logo apos colocar na variável now o datatime.now, depois temos um comando now.strftime("%m/%d/%Y, %H:%M:%S") que vai fazer com que seja exibido o: meses dias anos e horas minutos e segundos. Um código simples só para podermos ver o potencial da ferramenta!
+4ºLogo abaixo utilizamos a tag ```<py-script></py-script>``` e dentro dela colocamos nosso código em python, o código que utilizei é simples, tratasse de importar o ```datatime``` e logo apos colocar na variável ```now``` o ```datatime.now```, depois temos um comando ```now.strftime("%m/%d/%Y, %H:%M:%S")``` que vai fazer com que seja exibido o: meses dias anos e horas minutos e segundos. Um código simples só para podermos ver o potencial da ferramenta!
 
 ```<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />```
 ```<script defer src="https://pyscript.net/alpha/pyscript.js"></script>```
