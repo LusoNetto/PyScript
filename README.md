@@ -36,6 +36,7 @@
     ```now.strftime("%m/%d/%Y, %H:%M:%S")```
         ```</py-script>```
 ```</body>```
+  Obs.: Lembre sempre de respeitar a identação no python.
 
 5. Se voce estiver no linux é só salvar o seu documento, abrir o terminal na pasta onde esta o arquivo html e dar o comando ```$ open <nomeDoSeuArquivo>.html```
 6. Se estiver no Windows é só salvar o seu documento e abrir o arquivo ```<nomeDoSeuArquivo>.html``` com o chrome.
